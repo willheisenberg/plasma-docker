@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "tesla@example.com",
+                "Name": "Tesla"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "List, start and stop Docker containers on localhost and on remote servers over SSH.",
+        "Icon": "docker-desktop",
+        "Id": "com.github.tesla.plasmadocker",
+        "License": "GPL-3.0-or-later",
+        "Name": "Docker Containers",
+        "Version": "0.1"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

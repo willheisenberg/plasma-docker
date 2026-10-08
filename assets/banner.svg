@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif">
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#0f2233"/>
+            <stop offset="1" stop-color="#1b1e24"/>
+        </linearGradient>
+    </defs>
+    <rect width="1280" height="360" rx="18" fill="url(#bg)"/>
+    <g transform="translate(70 96) scale(7)" fill="#3daee9"><path d="M0.6 12.9H18.4c0.8 0 1.5-0.3 2-0.8c-0.6-1.1-0.5-2.5 0.4-3.5c1 0.6 1.6 1.5 1.7 2.5c0.6-0.2 1.2-0.1 1.6 0.2c-0.4 1.1-1.4 1.8-2.7 1.8c-1.3 3.9-4.6 6.5-9.7 6.5C5.3 19.6 0.9 17.2 0.6 12.9Z"/><rect x="2.3" y="9.3" width="2.6" height="2.6" rx="0.3"/><rect x="5.5" y="9.3" width="2.6" height="2.6" rx="0.3"/><rect x="8.7" y="9.3" width="2.6" height="2.6" rx="0.3"/><rect x="11.9" y="9.3" width="2.6" height="2.6" rx="0.3"/><rect x="15.1" y="9.3" width="2.6" height="2.6" rx="0.3"/><rect x="5.5" y="6.1" width="2.6" height="2.6" rx="0.3"/><rect x="8.7" y="6.1" width="2.6" height="2.6" rx="0.3"/><rect x="11.9" y="6.1" width="2.6" height="2.6" rx="0.3"/><rect x="11.9" y="2.9" width="2.6" height="2.6" rx="0.3"/></g>
+    <text x="270" y="158" font-size="46" font-weight="700" fill="#ffffff">Docker Containers</text>
+    <text x="272" y="200" font-size="24" fill="#eff0f1" opacity="0.85">Panel widget for KDE Plasma 6</text>
+    <text x="272" y="240" font-size="17" fill="#eff0f1" opacity="0.6">start · stop · restart · open web UIs</text>
+    <text x="272" y="266" font-size="17" fill="#eff0f1" opacity="0.6">localhost and remote servers over SSH</text>
+    <rect x="770" y="40" width="450" height="280" rx="10" fill="#2a2e32" stroke="#4d5359"/>
+    <text x="790" y="74" font-size="15" font-weight="700" fill="#eff0f1">localhost</text>
+    <text x="1200" y="74" font-size="13" fill="#eff0f1" opacity="0.6" text-anchor="end">3 of 4 running</text>
+    <path d="M770 90 h450" stroke="#4d5359"/>
+    <text x="792" y="118" font-size="15" font-weight="700" fill="#eff0f1">▾ nextcloud</text>
+    <circle cx="822" cy="150" r="6" fill="#27ae60"/><text x="842" y="148" font-size="17" fill="#eff0f1">app</text><text x="842" y="165" font-size="12.5" fill="#eff0f1" opacity="0.6">nextcloud:29 · Up 3 days (healthy)</text><path d="M1187 151 a7 7 0 1 1 -2.2 -5.1" fill="none" stroke="#eff0f1" stroke-width="2" stroke-linecap="round"/><path d="M1186 146 l0.6 -5.2 l-5 1.6 z" fill="#eff0f1"/><rect x="1146" y="144" width="12" height="12" rx="1.5" fill="#eff0f1"/><g fill="none" stroke="#3daee9" stroke-width="1.7"><circle cx="1120" cy="150" r="7.5"/><ellipse cx="1120" cy="150" rx="3.2" ry="7.5"/><path d="M1112 150 h15"/></g>
+    <circle cx="822" cy="194" r="6" fill="#27ae60"/><text x="842" y="192" font-size="17" fill="#eff0f1">db</text><text x="842" y="209" font-size="12.5" fill="#eff0f1" opacity="0.6">postgres:16 · Up 3 days (healthy)</text><path d="M1187 195 a7 7 0 1 1 -2.2 -5.1" fill="none" stroke="#eff0f1" stroke-width="2" stroke-linecap="round"/><path d="M1186 190 l0.6 -5.2 l-5 1.6 z" fill="#eff0f1"/><rect x="1146" y="188" width="12" height="12" rx="1.5" fill="#eff0f1"/>
+    <path d="M790 222 h410" stroke="#4d5359" opacity="0.6"/>
+    <circle cx="800" cy="250" r="6" fill="#27ae60"/><text x="820" y="248" font-size="17" fill="#eff0f1">portainer</text><text x="820" y="265" font-size="12.5" fill="#eff0f1" opacity="0.6">portainer-ce · Up 5 hours</text><path d="M1187 251 a7 7 0 1 1 -2.2 -5.1" fill="none" stroke="#eff0f1" stroke-width="2" stroke-linecap="round"/><path d="M1186 246 l0.6 -5.2 l-5 1.6 z" fill="#eff0f1"/><rect x="1146" y="244" width="12" height="12" rx="1.5" fill="#eff0f1"/><g fill="none" stroke="#3daee9" stroke-width="1.7"><circle cx="1120" cy="250" r="7.5"/><ellipse cx="1120" cy="250" rx="3.2" ry="7.5"/><path d="M1112 250 h15"/></g>
+    <circle cx="800" cy="294" r="5" fill="none" stroke="#7f8c8d" stroke-width="2"/><text x="820" y="292" font-size="17" fill="#eff0f1">backup</text><text x="820" y="309" font-size="12.5" fill="#eff0f1" opacity="0.6">restic · Exited (0) 2 hours ago</text><path d="M1176 287 l12 7 l-12 7 z" fill="#eff0f1"/>
+</svg>
